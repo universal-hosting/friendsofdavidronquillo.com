@@ -1,0 +1,339 @@
+p.p1 {
+	padding: 0;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+}
+
+a.pagenav:link {
+	font-family:helvetica,arial,sans-serif;
+	color:white;
+	font-size:16px;
+    text-decoration: none;
+}
+
+a.pagenav:visited {
+	font-family:helvetica,arial,sans-serif;
+	color:white;
+	font-size:16px;
+    text-decoration: none;
+}
+
+a.pagenav:active {
+	font-family:helvetica,arial,sans-serif;
+	font-size:16px;
+    color: #ffffbd;
+    text-decoration: none;
+}
+
+a.pagenav:hover {
+	font-family:helvetica,arial,sans-serif;
+	font-size:16px;
+    color: #ffffbd;
+    text-decoration: none;
+}
+
+a.docnav:link {
+	font-family:helvetica,arial,sans-serif;
+	color:darkblue;
+	font-size:14px;
+	font-weight:normal;
+	font-style: normal;
+    text-decoration: none;
+}
+
+a.docnav:visited {
+	font-family:helvetica,arial,sans-serif;
+	color:darkblue;
+	font-size:14px;
+	font-weight:normal;
+	font-style: normal;
+    text-decoration: none;
+}
+
+a.docnav:active {
+	font-family:helvetica,arial,sans-serif;
+	color:darkblue;
+	font-size:14px;
+	font-weight:normal;
+	font-style: normal;
+    text-decoration: none;
+}
+
+a.docnav:hover {
+	font-family:helvetica,arial,sans-serif;
+	color:blue;
+	font-size:14px;
+	font-weight:normal;
+	font-style: normal;
+    text-decoration: none;
+}
+
+.narrative1 {
+	font-size:16px;
+}
+
+.narrative-head1 {
+	font-family:helvetica,arial,sans-serif;
+	color:#4c4c4c;
+	font-size:40px;
+	font-style: italic;
+}
+
+.narrative-head2 {
+	font-family:helvetica,arial,sans-serif;
+	color:#4c4c4c;
+	font-size:30px;
+	font-style: italic;
+}
+
+.narrative-head3 {
+	font-family:helvetica,arial,sans-serif;
+	color:#4c4c4c;
+	font-size:30px;
+}
+
+
+.CVheads {
+	font-family:helvetica,arial,sans-serif;
+	color:#000099;
+	font-size:18px;
+	font-weight:bold
+}
+
+.CVdetail {
+	font-family:helvetica,arial,sans-serif;
+	color:black;
+	font-size:14px;
+	font-weight:normal
+
+}
+
+.DocumentHeads {
+	font-family:helvetica,arial,sans-serif;
+	color:#404040;
+	font-size:18px;
+	font-weight:bold
+}
+
+.DocumentDetail {
+	font-family:helvetica,arial,sans-serif;
+	color:black;
+	font-size:14px;
+	font-weight:normal
+}
+
+.courier {
+	font-family:courier;
+	color:black;
+	font-size:16px;
+	font-weight:normal
+}
+
+.courier-indent {
+	font-family:courier;
+	color:black;
+	font-size:16px;
+	font-weight:normal;
+	text-indent: 30pt
+}
+
+.times {
+	font-family:times;
+	color:black;
+	font-size:16px;
+	font-weight:normal
+}
+
+.times-indent {
+	font-family:times;
+	color:black;
+	font-size:16px;
+	font-weight:normal;
+	text-indent: 30pt
+}
+
+.times-head {
+	font-family:times;
+	color:black;
+	font-size:20px;
+	font-weight:normal
+}
+
+.times-subhead {
+	font-family:times;
+	color:black;
+	font-size:18px;
+	font-weight:normal
+}
+
+.times-small {
+	font-family:times;
+	color:black;
+	font-size:12px;
+	font-weight:normal
+}
+
+.times-very-small {
+	font-family:times;
+	color:black;
+	font-size:8px;
+	font-weight:normal
+}
+
+.QandAquestions {
+	font-family:times;
+	color:#000099;
+	font-size:20px;
+	font-weight:500
+}
+
+.PhotoCaptions {
+	font-family:times;
+	color:#000099;
+	font-size:20px;
+	font-weight:500
+}
+
+.Transcription_head {
+	font-family:helvetica,arial,sans-serif;
+	color:darkblue;
+	font-size:20px;
+	font-weight:normal;
+	font-style: italic
+}
+
+.Source_Document_head {
+	font-family:helvetica,arial,sans-serif;
+	color:darkblue;
+	font-size:20px;
+	font-weight:normal;
+	font-style: italic
+}
+
+.Commentary_head {
+	font-family:helvetica,arial,sans-serif;
+	color:darkblue;
+	font-size:20px;
+	font-weight:normal;
+	font-style: italic
+}
+
+.light-table-rows {
+	background-color:#FFFFFF;
+}
+
+.dark-table-rows {
+	background-color:#DDDDDD;
+}
+
+.document_index_underline {
+	border-bottom:1px solid #D0D0D0;
+}
+
+div.rounded-corners {
+	border:1px solid #E0E0E0;
+	background-color: #FFFFFF;
+	padding:2em;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-opera-border-radius:10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 20px #CCC;
+	-moz-box-shadow: 5px 5px 20px #CCC;
+	-webkit-box-shadow: 5px 5px 20px #CCC;
+	-opera-box-shadow: 5px 5px 20px #CCC;
+	-khtml-box-shadow: 5px 5px 20px #CCC;
+}
+
+div.transcript-box {
+	border:1px solid #E0E0E0;
+	background-color: #FFFFFF;
+	padding-top:2em;
+	padding-bottom:2em;
+	padding-right:2em;
+	padding-left:2em;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-opera-border-radius:0px;
+	-khtml-border-radius: 0px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 20px #CCC;
+	-moz-box-shadow: 5px 5px 20px #CCC;
+	-webkit-box-shadow: 5px 5px 20px #CCC;
+	-opera-box-shadow: 5px 5px 20px #CCC;
+	-khtml-box-shadow: 5px 5px 20px #CCC;
+}
+
+div.welcome-box {
+	border:1px solid #E0E0E0;
+	background-color: #FFFFFF;
+	padding-top:2em;
+	padding-bottom:2em;
+	padding-right:4em;
+	padding-left:4em;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-opera-border-radius:10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 20px #CCC;
+	-moz-box-shadow: 5px 5px 20px #CCC;
+	-webkit-box-shadow: 5px 5px 20px #CCC;
+	-opera-box-shadow: 5px 5px 20px #CCC;
+	-khtml-box-shadow: 5px 5px 20px #CCC;
+}
+
+div.commentary-box {
+	border:1px solid #E0E0E0;
+	background-color: #dfefff;
+	padding-top:2em;
+	padding-bottom:2em;
+	padding-right:4em;
+	padding-left:4em;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-opera-border-radius:10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 20px #CCC;
+	-moz-box-shadow: 5px 5px 20px #CCC;
+	-webkit-box-shadow: 5px 5px 20px #CCC;
+	-opera-box-shadow: 5px 5px 20px #CCC;
+	-khtml-box-shadow: 5px 5px 20px #CCC;
+}
+
+div.QandA-box {
+	border:1px solid #E0E0E0;
+	background-color: #FFFFFF;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:4em;
+	padding-left:4em;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-opera-border-radius:10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 20px #CCC;
+	-moz-box-shadow: 5px 5px 20px #CCC;
+	-webkit-box-shadow: 5px 5px 20px #CCC;
+	-opera-box-shadow: 5px 5px 20px #CCC;
+	-khtml-box-shadow: 5px 5px 20px #CCC;
+}
+
+.bt {
+	border-top: 1px solid black;
+}
+.bb {
+	border-bottom: 1px solid black;
+}
+.bl {
+	border-left: 1px solid black;
+}
+.br {
+	border-right: 1px solid black;
+}
+
